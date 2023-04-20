@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/KLTN_SGU_Fruit/train/images
+val: /content/KLTN_SGU_Fruit/valid/images
+test: /content/KLTN_SGU_Fruit/test/images
 
 nc: 2
 names: ['Fruit', 'fruit']
